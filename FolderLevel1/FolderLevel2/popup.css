@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+button, textarea {
+    margin-top: 10px;
+    display: block;
+    width: calc(100% - 20px);
+}
+textarea {
+    height: 200px;
+    resize: none;
+}
+div {
+    padding: 10px;
+}
